@@ -1,0 +1,12 @@
+.wrapper{
+    display:grid;
+    margin-top:40px;
+}
+.form__input,.form__button{
+    padding:10px;
+    margin:5px auto;
+    place-items: center;
+    grid-template-columns: 1fr;
+    width: 500px;
+}
+
