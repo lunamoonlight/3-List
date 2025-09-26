@@ -9,4 +9,11 @@
     grid-template-columns: 1fr;
     width: 500px;
 }
-
+.otvet{
+    padding:20px;
+    margin:5px auto;
+    place-items: center;
+    grid-template-columns: 1fr;
+    width: auto;
+    font-size: 20px;
+}
